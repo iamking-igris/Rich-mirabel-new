@@ -1,0 +1,6 @@
+{
+  "name": "Richmirabel - Nigerian WAEC & JAMB Exam Prep",
+  "description": "JAMB and WAEC exam preparation, one topic at a time. Clear notes, targeted CBT sets, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

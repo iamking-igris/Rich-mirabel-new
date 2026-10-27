@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #FDFBF7;
+  --color-surface: #FFFFFF;
+  --color-soft: #F4EFEA;
+  --color-ink: #2A2422;
+  --color-muted: #7A726D;
+  --color-line: #E5E0D8;
+  --color-primary: #1A4D2E;
+  --color-primary-fg: #FFFFFF;
+  --color-brass: #D4AF37;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Outfit", system-ui, sans-serif;
+  --font-serif: "Fraunces", Georgia, serif;
+}
